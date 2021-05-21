@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\bin\Debug\net5.0\app_cadastro_de_series.exe
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\bin\Debug\net5.0\app_cadastro_de_series.deps.json
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\bin\Debug\net5.0\app_cadastro_de_series.runtimeconfig.json
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\bin\Debug\net5.0\app_cadastro_de_series.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\bin\Debug\net5.0\app_cadastro_de_series.dll
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\bin\Debug\net5.0\ref\app_cadastro_de_series.dll
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\bin\Debug\net5.0\app_cadastro_de_series.pdb
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\obj\Debug\net5.0\app_cadastro_de_series.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\obj\Debug\net5.0\app_cadastro_de_series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\obj\Debug\net5.0\app_cadastro_de_series.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\obj\Debug\net5.0\app_cadastro_de_series.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\obj\Debug\net5.0\app_cadastro_de_series.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\obj\Debug\net5.0\app_cadastro_de_series.dll
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\obj\Debug\net5.0\ref\app_cadastro_de_series.dll
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\obj\Debug\net5.0\app_cadastro_de_series.pdb
+C:\Users\Usuario\Desktop\DIO\Execicios\app_cadastro_de_series\obj\Debug\net5.0\app_cadastro_de_series.genruntimeconfig.cache
